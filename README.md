@@ -1,2 +1,3 @@
-# service.subtitles.tusubtitulocom
-TuSubtitulo.com xbmc subtitle service
+service.subtitles.tusubtitulocom
+==============================
+XBMC Subtitle plugin for www.tusubtitulo.com

@@ -1,0 +1,2 @@
+v: 0.1
+	- Initial version of the subtitle plugin for www.tusubtitulo.com
